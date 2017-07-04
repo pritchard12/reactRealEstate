@@ -5,6 +5,7 @@
     "escape-html": "^1.0.3",
     "firebase-admin": "^4.2.1",
     "firebase-functions": "^0.5.7",
+    "firebase-tools": "^3.9.1",
     "promise": "^8.0.0"
   },
   "private": true
